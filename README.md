@@ -17,7 +17,7 @@ A lightweight, educational neural network framework implemented in pure C. This 
 .
 ├── neural_net.h      # Header file with API definitions
 ├── neural_net.c      # Core implementation
-├── example.c         # XOR problem demonstration
+├── test.c         # XOR problem demonstration
 ├── Makefile          # Build configuration
 └── README.md         # This file
 ```
