@@ -3,7 +3,7 @@ CFLAGS = -Wall -Wextra -std=c99 -O2
 LDFLAGS = -lm
 
 TARGET = neural_net_demo
-SOURCES = neural_net.c example.c
+SOURCES = neural_net.c test.c
 OBJECTS = $(SOURCES:.c=.o)
 HEADERS = neural_net.h
 
